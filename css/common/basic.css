@@ -374,7 +374,7 @@ body {
   font-family: Geist Variable, Noto Sans SC, -apple-system, system-ui, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial;
   font-weight: 400;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 2;
 }
 html::-webkit-scrollbar,
 body::-webkit-scrollbar {
@@ -406,14 +406,14 @@ body::-webkit-scrollbar-thumb:hover {
   html,
   body {
     font-size: 15.36px;
-    line-height: 1.44;
+    line-height: 1.92;
   }
 }
 @media (max-width: 640px) {
   html,
   body {
     font-size: 14.4px;
-    line-height: 1.35;
+    line-height: 1.8;
   }
 }
 ::selection {
