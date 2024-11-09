@@ -7,3 +7,7 @@ p {
     text-indent: 2em;
     letter-spacing: 0.03em;
 }
+
+div#Ne p img {
+    margin: auto;
+}
